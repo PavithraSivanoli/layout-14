@@ -1,0 +1,219 @@
+.header .wrapper
+{
+	width:100%;
+    margin:auto;
+}
+.topics .wrapper
+{
+	width:100%;
+    margin:auto;
+}
+.about .wrapper
+{
+	width:70%;
+    margin:auto;
+}
+.images .wrapper
+{
+	width:70%;
+    margin:auto;
+}
+.copyright .wrapper
+{
+	width:70%;
+    margin:auto;
+}
+.header
+{
+	text-align:center;
+	height:38px;
+	width:1400px;
+	background-color:blue;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.topics 
+ {
+	 background-color:lightyellow;
+	 height:59px;
+}
+.topics .topics-fc 
+{
+	display:flex;
+	justify-content:space-around;
+	flex-direction:row;
+}
+.topics .topics-fc .photofolio
+{
+	text-align:center;
+    background-color:lightgreen;
+  height:59px;
+  width:300px;
+}
+.topics .topics-fc .navigation
+{
+	text-align:center;
+  height:59px;
+  width:300px;
+ 
+}
+.topics .topics-fc .contact
+{
+	text-align:center;
+	background-color:purple;
+  height:59px;
+  width:300px;
+}
+.about 
+{
+	height:300px;
+	width:1500px;
+	background-color:lightgreen;
+}
+.about .about-fc 
+{
+	display:flex;
+	justify-content:center;
+}
+.about .about-fc .available
+{
+	text-align:center;
+	margin-top:150px;
+	background-color:pink;
+	width:200px;
+	height:50px;
+}
+.images 
+{
+	height:700px;
+	width:1400px;
+	background-color:gray;
+}
+.images .images-fc 
+{
+     display:flex;
+	flex-wrap:wrap;
+    justify-content:space-around;
+}
+.images .images-fc .sea
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:pink;
+}
+.images .images-fc .building
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:darkkhaki;
+}
+.images .images-fc .straberry
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:coral;
+}
+.images .images-fc .parrot
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:teal;
+}
+.images .images-fc .hills
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:tomato;
+}
+.images .images-fc .girl-a
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:purple;
+}
+.images .images-fc .girl-b
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:lightgreen;
+}
+.images .images-fc .girl-c
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:lavender;
+}
+.images .images-fc .girl-d
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:lightblue;
+}
+.images .images-fc .america
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:pink;
+}
+.images .images-fc .butterfly
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:black;
+}
+.images .images-fc .boat
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:pink;
+}
+.images .images-fc .water
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:white;
+}
+.images .images-fc .food
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:black;
+}
+.images .images-fc .moon
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:white;
+}
+.images .images-fc .river
+{
+	margin-top:20px;
+	height:150px;
+	width:220px;
+	background-color:pink;
+}
+.copyright
+{
+	text-align:center;
+	height:110px;
+	width:1400px;
+	background-color:black;
+}
